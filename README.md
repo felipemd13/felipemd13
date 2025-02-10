@@ -23,8 +23,8 @@ Happy to help if I can, let's talk:
 - 📧 Email: felipemd13@gmail.com  
 
 ### :zap: Recent Activity
-<!-- RECENT_ACTIVITY:start-->
-<!-- RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 <!--
 **felipemd13/felipemd13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
