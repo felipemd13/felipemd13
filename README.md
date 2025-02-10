@@ -22,6 +22,10 @@ Happy to help if I can, let's talk:
 - [LinkedIn](https://www.linkedin.com/in/felipemartinezdiaz/)  
 - 📧 Email: felipemd13@gmail.com  
 
+### :zap: Recent Activity
+<!-- START_SECTION:activity-->
+
+<!-- END_SECTION:activity-->
 <!--
 **felipemd13/felipemd13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
